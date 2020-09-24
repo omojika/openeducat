@@ -1,0 +1,3 @@
+[submodule "openeducat_erp"]
+	path = openeducat_erp
+	url = git@github.com:victoralonsosoto/openeducat_erp.git
